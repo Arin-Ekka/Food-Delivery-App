@@ -104,7 +104,7 @@ The API endpoints for the backend can be documented using tools like Postman or 
 🤝 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the code style and include relevant tests.
 
-👨‍💻 Contributors
+👨‍💻 Contributor
 
 Arin Ekka — Project Owner.
 Reg.no:22MIM10138

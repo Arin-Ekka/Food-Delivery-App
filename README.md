@@ -75,35 +75,28 @@ Usage
 Access the customer-facing app at http://localhost:5173. Access the admin app at http://localhost:5174. Register as a new user or log in with existing credentials. Browse the menu, add items to the cart, and place an order. Pay using dummy visa card Use the admin panel to manage orders, menu items.
 
 📸 Screenshots
-🏠 Home :
-1
+🏠 Home:<img width="1036" height="449" alt="home" src="https://github.com/user-attachments/assets/460e4337-0c97-409e-8925-82708d88b5a9" />
 
 🔐 Login :
-2
+<img width="1030" height="454" alt="login" src="https://github.com/user-attachments/assets/5823b071-205d-422a-9d34-0862c892adf6" />
 
 🔐 Signup :
-3
+<img width="1039" height="447" alt="signup" src="https://github.com/user-attachments/assets/cbdaf767-a054-44db-8356-e2d6f7a977cb" />
 
-🍔 Menu :
-Capture2
-
-🍱 Menu Food :
-Capture3
-
-ℹ️ App Download :
-Capture4
+🍔 Menu:
+<img width="1034" height="473" alt="menu" src="https://github.com/user-attachments/assets/a396d1bb-df8c-4a36-9e4b-08fe4215e537" />
 
 🍱 Menu Food :
-Capture5
+<img width="1034" height="465" alt="menu food" src="https://github.com/user-attachments/assets/860bf99f-b28b-4caa-911d-294ab6c29b64" />
 
-🛒 Cart :
-Capture6
+ℹ️ App Download: 
+<img width="1037" height="476" alt="app download" src="https://github.com/user-attachments/assets/372eedf4-b68c-4cb8-aaf2-c07f2fd84f47" />
+
+🛒 Cart: 
+<img width="1031" height="457" alt="cart" src="https://github.com/user-attachments/assets/ff2581c2-5824-4b8a-812a-d507b3f2a92a" />
 
 📞 Contact :
-Capture7
-
-❤️ Payment :
-Capture8
+<img width="1031" height="460" alt="contacts" src="https://github.com/user-attachments/assets/7a461aa7-94af-4dea-a4ed-9b8c10059b9f" />
 
 📜 API Documentation
 The API endpoints for the backend can be documented using tools like Postman or Swagger. Include endpoints for user authentication, menu items, orders, and more.

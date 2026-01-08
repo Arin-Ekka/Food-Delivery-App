@@ -35,7 +35,6 @@ MongoDB
 Make sure you have Node.js (v20+ recommended) and npm installed.
 
 Clone the Repository
-git clone https://github.com/DulanjaliSenarathna/mern-food-delivery-app.git
 cd mern-food-delivery-app
 Backend Setup
 Navigate to the backend directory:
